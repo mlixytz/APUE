@@ -14,7 +14,5 @@ int main(int argc, char *argv[]) {
     else
         printf("open for reading OK\n");
     
-    sleep(20);
     exit(0);
-    
 }
